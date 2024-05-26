@@ -4,6 +4,8 @@
 
 Welcome to CorporateQuotes, a fun project that generates unique corporate-style phrases to impress your colleagues and friends!
 
+![CorporateQuotes](https://github.com/ThatSINEWAVE/CorporateQuotes/assets/133239148/e3cb96fc-5ef8-4dbc-9161-7638189e0d3c)
+
 </div>
 
 #### Usage
