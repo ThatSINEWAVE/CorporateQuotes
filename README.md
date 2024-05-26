@@ -1,8 +1,8 @@
 <div align="center">
 
-# CorporateQuotes
+# [CorporateQuotes](https://thatsinewave.github.io/CorporateQuotes)
 
-Welcome to CorporateQuotes, a fun project that generates unique corporate-style phrases to impress your colleagues and friends! You can access the project [here](https://thatsinewave.github.io/CorporateQuotes).
+Welcome to CorporateQuotes, a fun project that generates unique corporate-style phrases to impress your colleagues and friends!
 
 </div>
 
